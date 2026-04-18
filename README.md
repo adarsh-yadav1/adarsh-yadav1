@@ -1,90 +1,82 @@
-# Hi 👋 I'm Adarsh Yadav
+# 👋 Hey, I'm Adarsh Yadav
 
-🎓 B.Tech CSE Student @ IIIT Guwahati  
-💻 Backend Developer | Problem Solver | Aspiring SDE  
-📍 India  
+```
+ B.Tech CSE @ IIIT Guwahati  ·  CGPA 9.27  ·  Batch of 2028
+```
 
----
-
-## 🚀 About Me
-- 🧠 Passionate about backend development and building scalable systems
-- 💻 Strong interest in Spring Boot, APIs, and system design
-- 📚 Actively solving DSA problems & improving problem-solving skills
-- 🌱 Currently learning advanced backend architecture & clean code practices
+I'm a computer science student who loves turning ideas into real, working systems — from backend APIs to ML models. Passionate about problem-solving, clean code, and building impactful applications as an SDE.
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Skills
 
-### Programming Languages
-C • C++ • Java • Python
-
-### Backend & APIs
-Spring Boot • REST APIs • DTO Architecture • Swagger
-
-### Databases
-MySQL • PostgreSQL
-
-### Web Development
-HTML • CSS • JavaScript
-
-### Tools
-Git • GitHub • VS Code
+**Languages:** C · C++ · Python · Java  
+**Backend & APIs:** Spring Boot · REST APIs · JWT · Spring Security  
+**Databases:** PostgreSQL · MySQL  
+**ML / Data:** Scikit-learn · NumPy · Pandas · Matplotlib  
+**Web:** HTML · CSS · JavaScript  
+**Tools:** Git · GitHub · VS Code  
 
 ---
 
-## 📌 Featured Projects
+## 🏆 Achievements
 
-### 🏥 Hospital Management Backend API
-- Built scalable REST APIs for Patients, Doctors & Appointments
-- Added business rules (double-booking prevention)
-- Used DTO architecture, pagination & validation
-- Integrated Swagger for API documentation
+| Metric | Value |
+|--------|-------|
+| DSA Problems Solved | 350+ (LeetCode · Codeforces · GFG) |
+| Current CGPA | 9.27 / 10 |
+| Codeforces Max Rating | 1147 |
+| CodeChef | 3★ |
 
-**Tech:** Spring Boot, PostgreSQL
 
 ---
 
-### 🏠 House Price Prediction Model
-- Built Linear Regression model on 545+ records
-- Data cleaning, feature scaling & outlier handling
-- Achieved R² Score: 0.61
-- Created residual & prediction visualizations
+## 🚀 Featured Projects
 
-**Tech:** Python, Scikit-Learn
+### 🤖 [FinBot — AI Loan Automation](https://github.com/adarsh-yadav1/FinBot)
+> Hackathon project that automates the end-to-end loan application process using AI — reducing manual review overhead and accelerating decisions.
 
----
-
-### 🎮 Tic-Tac-Toe Game
-- Interactive browser-based game
-- Win/draw detection logic
-- DOM manipulation for dynamic UI updates
-
-**Tech:** HTML, CSS, JavaScript
+`AI` `Automation` `Hackathon`
 
 ---
 
-## 🧠 Coding Achievements
-- 🔥 Solved **350+ problems** on LeetCode, Codeforces & GFG
-- ⭐⭐⭐ CodeChef
-- 📈 Codeforces Max Rating: **1147**
+### 🏥 [Hospital Management API](https://github.com/adarsh-yadav1/hospital-management)
+> Production-style REST API backend with JWT auth, role-based access control, appointment conflict detection, and DTO-based pagination architecture.
+
+`Spring Boot` `PostgreSQL` `JWT` `Spring Security`
 
 ---
 
-## 🎓 Education
-**IIIT Guwahati**  
-B.Tech Computer Science (2024 – 2028)  
-CGPA: **9.27**
+### 📧 [Email Triage System](https://github.com/adarsh-yadav1/EmailTriageSystem)
+> Automated system to classify and prioritize incoming emails — reducing inbox noise and improving response efficiency.
+
+`NLP` `Python` `Classification`
 
 ---
 
-## 🤝 Position of Responsibility
-🎭 Club Coordinator – Afsaane (Drama Club)  
-- Coordinated 20+ members for events and stage performances
+### 💬 [Talk-To-Data](https://github.com/adarsh-yadav1/Talk-To-Data)
+> Natural language interface for querying structured datasets. Ask questions in plain English, get data-driven answers.
+
+`LLM` `NL2SQL` `Python`
 
 ---
 
+### 🏠 House Price Prediction
+> Linear Regression model on 545+ housing records with a full data pipeline — cleaning, encoding, feature scaling.  
+> **R² Score: 0.61 · RMSE: ~1M**  
+> Key predictors identified: area, bathrooms, air-conditioning.
 
-## 📫 Connect With Me
-- Email: iamyadavadarsh@gmail.com
-- LinkedIn: https://www.linkedin.com/in/adarsh-yadav-583297323/
+`Scikit-learn` `Matplotlib` `ML`
+
+---
+
+## 🎭 Beyond the Code
+
+**Club Coordinator @ Afsaane — The Drama Club, IIIT Guwahati** _(Aug 2025 – Present)_  
+Led coordination of 20+ members for stage performances and cultural events.
+
+---
+
+## 📬 Connect
+
+📍 Lucknow, Uttar Pradesh  ·  ✉️ iamyadavadarsh@gmail.com  ·  📱 +91 9125912334

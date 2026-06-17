@@ -47,7 +47,7 @@ public class Adarsh {
 
 | 🧠 DSA Problems | 📊 CGPA | ⚡ Codeforces | 🍛 CodeChef |
 |:-:|:-:|:-:|:-:|
-| **350+** | **9.27 / 10** | **1147 Max** | **3 ★** |
+| **500+** | **9.27 / 10** | **1344 Max** | **3 ★** |
 | LeetCode · CF · GFG | IIIT Guwahati | Specialist Path | Active |
 
 </div>

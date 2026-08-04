@@ -23,7 +23,7 @@ public class Adarsh {
 
     String  degree   = "B.Tech CSE @ IIIT Guwahati";
     String  batch    = "2028";
-    double  cgpa     = 9.27;
+    double  cgpa     = 9.25;
     String  location = "Lucknow, Uttar Pradesh";
 
     String[] passionateAbout = {
